@@ -1,0 +1,11 @@
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.deps.json
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.runtimeconfig.json
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.runtimeconfig.dev.json
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\appsettings.Development.json
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\appsettings.json
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.exe
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.dll
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\bin\Debug\VogCodeChallenge.API.pdb
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\gurch\source\repos\GurchamanSidhu_log_BackEnd_CodeChallenge\obj\Debug\docker-compose.dcproj.CopyComplete
